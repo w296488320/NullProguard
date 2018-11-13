@@ -18,6 +18,8 @@ Win        gradle/m2repository/net/sf/proguard/proguard-base
 （如果换完了没有效果的话，说明你电脑之前 装过 as ， 
 混淆 目录不止哪一个 这种情况 需要 全盘搜索 proguard-base 文件夹 把 搜索到全部替换 ）
 
+如果用eclipse导入项目报错的话 请把编码改成u8  因为 默认是GBK编码 不支持特殊空格 编码 
+
 打包好的 空白混淆 
 
 5.3.3下载地址 
